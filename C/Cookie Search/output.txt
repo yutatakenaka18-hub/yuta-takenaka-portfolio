@@ -1,0 +1,45 @@
+cookieid: 3
+cookie found?: yes!
+index: 0 0
+peeks for linear search: 1
+peeks for binary search: 4
+cookieid: 100
+cookie found?: yes!
+index: 3 4
+peeks for linear search: 20
+peeks for binary search: 5
+cookieid: 45
+cookie found?: yes!
+index: 2 1
+peeks for linear search: 12
+peeks for binary search: 3
+cookieid: 50
+cookie found?: no!
+index: -1 -1
+peeks for linear search: 20
+peeks for binary search: 4
+cookieid: 19
+cookie found?: yes!
+index: 1 0
+peeks for linear search: 6
+peeks for binary search: 4
+cookieid: 200
+cookie found?: no!
+index: -1 -1
+peeks for linear search: 20
+peeks for binary search: 5
+cookieid: 1
+cookie found?: no!
+index: -1 -1
+peeks for linear search: 20
+peeks for binary search: 4
+cookieid: 67
+cookie found?: yes!
+index: 2 4
+peeks for linear search: 15
+peeks for binary search: 2
+cookieid: 34
+cookie found?: yes!
+index: 1 3
+peeks for linear search: 9
+peeks for binary search: 5
