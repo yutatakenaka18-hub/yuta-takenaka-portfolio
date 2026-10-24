@@ -4,7 +4,6 @@ A collection of programming projects and source code developed during my univers
 武中優太　ポートフォリオ
 大学で学んだプログラミングのソースコードをまとめました。
 
-projects | プロジェクト
 1. C Programming
 
 Programs developed as part of university coursework, focusing on algorithms, data structures, memory management, and problem-solving.
