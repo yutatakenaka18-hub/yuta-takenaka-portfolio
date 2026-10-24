@@ -1,8 +1,8 @@
 # yuta-takenaka-portfolio
-A collection of programming projects and source code developed during my university studies.
+A partial collection of programming projects and source code developed during my university studies.
 
 武中優太　ポートフォリオ
-大学で学んだプログラミングのソースコードをまとめました。
+大学で学んだプログラミングのソースコードの一部をまとめました。
 
 1. C Programming
 
